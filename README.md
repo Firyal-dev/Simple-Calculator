@@ -1,13 +1,17 @@
 # Simple Calculator using html, tailwind css, and javascript
+
 ``
-git clone https://github.com/Firyal-dev/Simple-To-Do-list.git 
+git clone https://github.com/Firyal-dev/Simple-Calculator.git 
 ``
+
 ``
-cd Simple-To-Do-list
+cd Simple-Calculator
 ``
+
 ``
 npm install
 ``
+
 ``
 npx tailwindcss -i ./style/input.css -o ./style/output.css --watch
 ``
